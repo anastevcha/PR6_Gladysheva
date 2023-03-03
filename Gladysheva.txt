@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Гладышева Анастасия Викторовна
 Gladysheva Anastasia Victorovna
 12345
+=======
+>>>>>>> Session1
